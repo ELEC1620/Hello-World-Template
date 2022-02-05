@@ -1,7 +1,7 @@
 /*  Hello-World-Template
 *   This template code is a base from which serial output commands can be added.
 *   
-*   The code should be modified in accordance with the Seial Communication Activities. 
+*   The code should be modified in accordance with the Serial Communication Activities. 
 *
 *   Board: NUCLEO L476RG
 *   Author: James Chandler 2021
